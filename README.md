@@ -1,7 +1,7 @@
-# trial-caddy
+# infra-blocks-caddy
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Repository size](https://img.shields.io/github/repo-size/kamaslau/trial-caddy?color=56BEB8)
+![Repository size](https://img.shields.io/github/repo-size/kamaslau/infra-blocks-caddy?color=56BEB8)
 
 ## Usage
 
@@ -15,8 +15,8 @@ To enable Caddy to successfully acquire CA:
 Clone and enter this repository:
 
 ```bash
-git clone git@github.com:kamaslau/trial-caddy.git
-cd trial-caddy
+git clone git@github.com:kamaslau/infra-blocks-caddy.git
+cd infra-blocks-caddy
 ```
 
 Ready the .env file and [Caddyfile](https://caddyserver.com/docs/caddyfile):
