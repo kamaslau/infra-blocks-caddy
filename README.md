@@ -22,7 +22,7 @@ cd infra-blocks-caddy
 Ready the .env file and [Caddyfile](https://caddyserver.com/docs/caddyfile):
 
 ```bash
-cp .env.sample .env
+cp .env.example .env
 nano .env
 
 cp Caddyfile.sample Caddyfile
