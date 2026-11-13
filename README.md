@@ -106,4 +106,4 @@ If the site is served to mainland users through Cloudflare, keep the proxy on af
 
 ---
 
-Part of [infrastructure blocks](https://github.com/kamaslau/infra-blocks) · ← back to index
+Part of [infrastructure blocks](https://github.com/kamaslau/infra-blocks) · ← back to index · [what I do](https://www.kamaslau.com/works?utm_source=github&utm_medium=repo-readme&utm_campaign=always-on&utm_content=unit)
